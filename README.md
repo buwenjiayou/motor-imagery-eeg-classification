@@ -61,7 +61,7 @@ motor-imagery-eeg-classification/
 │   ├── interim/                   # 中间处理结果
 │   └── processed/                 # 可直接用于实验的数据
 │       └── deep_learning/         # 深度学习 NPZ 导出
-├── experiments/                   # 新增实验脚本（E0-E7）
+├── experiments/                   # 实验脚本（E0-E18，部分序号预留/合并）
 ├── results/
 │   ├── figures/                   # 图表输出
 │   ├── tables/                    # CSV 结果表格
