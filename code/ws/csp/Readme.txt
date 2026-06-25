@@ -1,0 +1,1 @@
+The CSP algorithm uses CSP feature extraction and LDA classifier. Users can run main.py directly.

@@ -1,0 +1,1 @@
+The CSP algorithm uses FBCSP feature extraction and SVM classifier. Users can run mainPipeline.py directly.

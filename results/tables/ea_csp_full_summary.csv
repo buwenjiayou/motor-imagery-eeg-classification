@@ -1,0 +1,2 @@
+﻿family,method,protocol,alignment,n_rows,accuracy_mean,accuracy_std,balanced_accuracy_mean,balanced_accuracy_std,macro_f1_mean,macro_f1_std,kappa_mean,kappa_std
+alignment,EA+CSP-LDA,cross_session_train_1-4_test_5,euclidean_alignment_unsupervised_target,25,0.5564991893375716,0.10982175753424482,0.5570565246197583,0.10963533849940292,0.5389857844495549,0.12001004072685637,0.11393744663633998,0.21917315240267018

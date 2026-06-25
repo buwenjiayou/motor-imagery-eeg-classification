@@ -1,0 +1,2 @@
+﻿method,protocol,n_rows,n_subjects,n_seeds,seeds,accuracy_mean,accuracy_std,balanced_accuracy_mean,balanced_accuracy_std,macro_f1_mean,macro_f1_std,kappa_mean,kappa_std,epochs_ran_mean,epochs_ran_std,train_seconds_mean,train_seconds_std
+EEGNet-compressed,cross_session_train_1-4_test_5,75,25,3,"42,2024,3407",0.5678593587103324,0.10905722614342242,0.5685061497635379,0.10910381467550263,0.5557572258720703,0.11687411601403036,0.13678704555612733,0.21757693152245516,22.68,9.759486029887412,1.5929743544260662,0.6641437292746314

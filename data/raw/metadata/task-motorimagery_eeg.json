@@ -1,0 +1,15 @@
+{
+    "TaskName": "Motor Imagery",
+    "TaskDescription": "The MI experiment was divided into three stages. In the first stage, 0-2s was the rest preparation period, during which subjects can rest, have small body movements, and blink. The second stage, 2-4s, was the prompt stage. In this stage, the left-hand or right-hand movement animation will appear on the monitor to remind subjects of the hand task next. The third stage, 4-8s, was the process of MI. During this period, subjects perform MI tasks of hand movement in the corresponding direction according to the arrow prompt in the monitor. The EEG equipment collected and stored signals at this stage. 100 trials were obtained after completing a session. In the experiment, we carried out five independent sessions with 2 to 3 days interval on each subject so that each subject had 500 trials in 5 sessions eventually. ",
+    "SamplingFrequency": 250,
+    "SoftwareFilters": "n/a",
+    "EEGChannelCount": 32,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "EEGReference": "unipolar, placed on M1",
+    "EEGGround": "placed on Afz",
+    "PowerLineFrequency": 50,
+    "EEGPlacementScheme": "10-20 system",
+    "RecordingType": "continuous"
+}

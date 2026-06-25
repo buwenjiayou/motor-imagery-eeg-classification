@@ -1,0 +1,10 @@
+name: mi-eeg-cpu
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - tqdm

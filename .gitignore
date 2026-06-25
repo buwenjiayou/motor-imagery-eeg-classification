@@ -1,0 +1,41 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data (large files)
+data/raw/mat/
+data/raw/edf/
+data/raw/events/
+data/interim/
+data/processed/
+
+# Models
+*.pt
+*.pth
+*.h5
+*.pkl
+
+# Results (optional, keep structure but ignore large logs)
+results/logs/*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/

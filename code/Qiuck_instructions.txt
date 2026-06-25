@@ -1,0 +1,2 @@
+Quick to use.
+We provide the construction method of the 'mne.raw' class in the python environment and the construction method of the 'EEG' class in EEGLab in the matlab environment, so that users can directly use the '.mat' file. 'Quick_use_for_mne.py' is for python environment. 'Quick_use_for_EEGLab.m' is for matlab environment.

@@ -1,0 +1,6 @@
+{
+  "Name": "SHU motor imagery dataset",
+  "Authors": ["Jun Ma", "Banghua Yang", "Wenzheng Qiu", "Yunzhe Li", "Shouwei Gao","Xinxing Xia"],
+  "License": "CC0",
+  "BIDSVersion": "1.1.1"
+}

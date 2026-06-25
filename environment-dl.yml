@@ -1,0 +1,21 @@
+name: mi-eeg-dl
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - tqdm
+  - pandas
+  - h5py
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1
+  - pip
+  - pip:
+      - einops

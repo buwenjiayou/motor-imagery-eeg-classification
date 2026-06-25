@@ -1,0 +1,13 @@
+﻿metric,value
+project_root,E:\HuaweiMoveData\Users\23610\Desktop\课程设计\motor-imagery-eeg-classification
+mat_files,125
+edf_files,125
+event_files,125
+unique_sessions,125
+participants_rows,25
+channel_rows,32
+event_trials_total,11988
+event_left_trials,5983
+event_right_trials,6005
+event_other_trials,0
+incomplete_session_records,0

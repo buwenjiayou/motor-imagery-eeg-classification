@@ -1,0 +1,2 @@
+﻿comparison,n_pairs,delta_balanced_accuracy_mean,delta_balanced_accuracy_std,n_improved,n_tied,n_decreased,best_delta,worst_delta
+"EA+EEGNet minus EEGNet, same subject-seed pairs",75,0.009661443229998096,0.09274202412849389,38,1,36,0.33999999999999997,-0.22027506654835838
