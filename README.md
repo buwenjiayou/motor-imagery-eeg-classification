@@ -327,11 +327,4 @@ python experiments/09_prepare_deep_learning_data.py --all-subjects --output shu_
 
 ## 引用与许可
 
-本项目为上海大学课程设计，基于老师提供的 SHU 运动想象 EEG 数据集和原始算法代码（CSP、FBCSP、FBCNet、EEGNet 等）进行复现与扩展。
-
-如果你在本项目代码基础上开展研究，建议引用以下相关文献：
-- Ramoser et al. (2000). "Optimal spatial filtering of single trial EEG during imagined hand movement." *IEEE TBME*.
-- Ang et al. (2008). "Filter bank common spatial pattern (FBCSP) in brain-computer interface." *IJCNN*.
-- Lawhern et al. (2018). "EEGNet: a compact convolutional neural network for EEG-based brain-computer interfaces." *JNE*.
-
 原始数据集和基础代码的版权归属原作者/原单位。本项目新增实验脚本和文档遵循 MIT 许可证（如单独声明）。
